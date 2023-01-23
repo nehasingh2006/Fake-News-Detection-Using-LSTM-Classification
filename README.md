@@ -1,4 +1,4 @@
-# Fake News Detection Using LSTM Classification
+# Fake News Detection Using LSTM Classification Algorithm 
 
 # Dataset Information
 
